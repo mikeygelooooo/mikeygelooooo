@@ -109,20 +109,6 @@
 
 ###
 
-<h2 align="left">🎧 My Music :</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/315hjkozfqwafx7laxa4rvve7oka">
-    <img
-      src="https://spotify-recently-played-readme.vercel.app/api?user=315hjkozfqwafx7laxa4rvve7oka&count=5&unique=true" width="500"
-      alt="Spotify recently played" />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mikeygelooooo/count.svg?" width="500"/>
 </div>
